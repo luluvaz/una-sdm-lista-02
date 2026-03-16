@@ -1,0 +1,9 @@
+universidade.json
+{
+  "nome": "Universidade UNA",
+  "cidade": "Belo Horizonte",
+  "estado": "MG",
+  "numeroAlunos": 20000,
+  "publica": false
+}
+

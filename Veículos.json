@@ -1,0 +1,9 @@
+veiculos.json
+{
+  "id": 1,
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "ano": 2022,
+  "preco": 120000,
+  "disponivel": true
+}

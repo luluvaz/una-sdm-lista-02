@@ -1,0 +1,8 @@
+public class Universidade
+{
+    public string Nome { get; set; }
+    public string Cidade { get; set; }
+    public string Estado { get; set; }
+    public int NumeroAlunos { get; set; }
+    public bool Publica { get; set; }
+}

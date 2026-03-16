@@ -1,0 +1,9 @@
+shopping.json
+{
+  "nome": "BH Shopping",
+  "cidade": "Belo Horizonte",
+  "numeroLojas": 400,
+  "temCinema": true,
+  "vagasEstacionamento": 3000
+}
+

@@ -1,0 +1,10 @@
+livros.json
+{
+  "id": 1,
+  "titulo": "Clean Code",
+  "autor": "Robert C. Martin",
+  "editora": "Prentice Hall",
+  "ano": 2008,
+  "disponivel": true
+}
+
